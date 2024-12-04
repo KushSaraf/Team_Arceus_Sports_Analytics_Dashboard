@@ -37,11 +37,11 @@ Execution Steps :-
     Open a terminal or command prompt.
     Run the following command to clone the repository to your local machine:
 	
-	git clone https://github.com/yourusername/ipl-2024-dashboard.git
+	git clone https://github.com/KushSaraf/Team_Arceus_Sports_Analytics_Dashboard
 
     Navigate to the project folder:
 
-    	cd ipl-2024-dashboard
+    	cd src
 
 3. Install Dependencies
 
